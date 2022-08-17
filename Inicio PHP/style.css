@@ -1,0 +1,50 @@
+body{
+    background-color: #b8bfc6;
+}
+
+.titulo{
+    background-color: #5B5296;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+
+}
+.title{
+    text-decoration: none;
+}
+.botones{
+    position: absolute;
+    right: 10px;
+    top: 30px;
+}
+.Busqueda{
+    position: absolute;
+    left: 30%;
+    width: 35%;
+    height: 35px;
+    border-radius: 50px;
+    top: 30px;
+}
+.buscar{
+    position: absolute;
+    right: 27%;
+    top: 32px;
+    border-radius: 50px;
+}
+.Footer{
+    background-color: #5B5296;
+}
+a{
+    text-decoration: none;
+}
+select{
+    padding-left: 20px;
+    align-items: center;
+    text-decoration: none;
+}
+.nombre{
+     align-items: center;
+}
+

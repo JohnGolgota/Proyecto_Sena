@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.minimap.enabled": false,
+		"workbench.preferredLightColorTheme": "Default Dark+",
+		"terminal.explorerKind": "integrated"
+	}
+}

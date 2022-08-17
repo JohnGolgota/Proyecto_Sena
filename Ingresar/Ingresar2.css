@@ -1,0 +1,15 @@
+section {
+    position: absolute;
+    top: 25%;
+    left: 38%;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    padding-top: 25px;
+    color: #FFFFFF;
+    background-color: #3B3561;
+    border-radius: 20px;
+}
+body {
+    background-color: #38CCB2;
+}
